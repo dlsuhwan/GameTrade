@@ -1,0 +1,2999 @@
+fileFormatVersion: 2
+guid: 51d94744396466b488d63fe58e31bc41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6730836065544178472
+    second: tf_beach_tileB_0
+  - first:
+      213: -1250571389476754080
+    second: tf_beach_tileB_1
+  - first:
+      213: 2669251848352703701
+    second: tf_beach_tileB_2
+  - first:
+      213: -4495836471923406302
+    second: tf_beach_tileB_3
+  - first:
+      213: 53849052855025126
+    second: tf_beach_tileB_4
+  - first:
+      213: -480773214797325624
+    second: tf_beach_tileB_5
+  - first:
+      213: 3175475353760720091
+    second: tf_beach_tileB_6
+  - first:
+      213: 5354344977103592951
+    second: tf_beach_tileB_7
+  - first:
+      213: -8335322980732136173
+    second: tf_beach_tileB_8
+  - first:
+      213: 7511791725712994066
+    second: tf_beach_tileB_9
+  - first:
+      213: -83471075835705978
+    second: tf_beach_tileB_10
+  - first:
+      213: 2336058576386171536
+    second: tf_beach_tileB_11
+  - first:
+      213: -7847328635314291490
+    second: tf_beach_tileB_12
+  - first:
+      213: 2902672756615059517
+    second: tf_beach_tileB_13
+  - first:
+      213: -7397791897120700819
+    second: tf_beach_tileB_14
+  - first:
+      213: -7571649666398650692
+    second: tf_beach_tileB_15
+  - first:
+      213: -2723257570725473089
+    second: tf_beach_tileB_16
+  - first:
+      213: 4489209654657496435
+    second: tf_beach_tileB_17
+  - first:
+      213: -169754833637230368
+    second: tf_beach_tileB_18
+  - first:
+      213: 2104274390668783103
+    second: tf_beach_tileB_19
+  - first:
+      213: 6473320594934092417
+    second: tf_beach_tileB_20
+  - first:
+      213: -856701996635447083
+    second: tf_beach_tileB_21
+  - first:
+      213: 3149742286485520045
+    second: tf_beach_tileB_22
+  - first:
+      213: -5900861964696022687
+    second: tf_beach_tileB_23
+  - first:
+      213: 2257660996392050944
+    second: tf_beach_tileB_24
+  - first:
+      213: -6605493668562088457
+    second: tf_beach_tileB_25
+  - first:
+      213: -7749644639179237838
+    second: tf_beach_tileB_26
+  - first:
+      213: -5264566752244264239
+    second: tf_beach_tileB_27
+  - first:
+      213: 3177222069431525933
+    second: tf_beach_tileB_28
+  - first:
+      213: 1120430234355149769
+    second: tf_beach_tileB_29
+  - first:
+      213: -6754017342338839918
+    second: tf_beach_tileB_30
+  - first:
+      213: 4808374710076434615
+    second: tf_beach_tileB_31
+  - first:
+      213: -1087931790163595849
+    second: tf_beach_tileB_32
+  - first:
+      213: -5635323126865728505
+    second: tf_beach_tileB_33
+  - first:
+      213: -5475584219085430809
+    second: tf_beach_tileB_34
+  - first:
+      213: -4261261290966386215
+    second: tf_beach_tileB_35
+  - first:
+      213: -3082133812775158612
+    second: tf_beach_tileB_36
+  - first:
+      213: 1846065119226964772
+    second: tf_beach_tileB_37
+  - first:
+      213: 5414824000707292945
+    second: tf_beach_tileB_38
+  - first:
+      213: -3282674883534575466
+    second: tf_beach_tileB_39
+  - first:
+      213: -1484421852420659102
+    second: tf_beach_tileB_40
+  - first:
+      213: 8068050732271604415
+    second: tf_beach_tileB_41
+  - first:
+      213: -5071310159010526273
+    second: tf_beach_tileB_42
+  - first:
+      213: 1504713038439895610
+    second: tf_beach_tileB_43
+  - first:
+      213: -3868043407336406268
+    second: tf_beach_tileB_44
+  - first:
+      213: 9043810506377664213
+    second: tf_beach_tileB_45
+  - first:
+      213: -2839301040447912453
+    second: tf_beach_tileB_46
+  - first:
+      213: 6095170849493893668
+    second: tf_beach_tileB_47
+  - first:
+      213: -4223571374496449800
+    second: tf_beach_tileB_48
+  - first:
+      213: -246431724621788261
+    second: tf_beach_tileB_49
+  - first:
+      213: 861014276679214386
+    second: tf_beach_tileB_50
+  - first:
+      213: -5399098084681866517
+    second: tf_beach_tileB_51
+  - first:
+      213: 6408726881407327194
+    second: tf_beach_tileB_52
+  - first:
+      213: -7456526625862392163
+    second: tf_beach_tileB_53
+  - first:
+      213: 7723276637187834429
+    second: tf_beach_tileB_54
+  - first:
+      213: -5459534406566804339
+    second: tf_beach_tileB_55
+  - first:
+      213: -6126699138938429416
+    second: tf_beach_tileB_56
+  - first:
+      213: -4572977138072290098
+    second: tf_beach_tileB_57
+  - first:
+      213: 2070590507631407485
+    second: tf_beach_tileB_58
+  - first:
+      213: 142219220965467711
+    second: tf_beach_tileB_59
+  - first:
+      213: -1508966243771960272
+    second: tf_beach_tileB_60
+  - first:
+      213: 1165656610852207482
+    second: tf_beach_tileB_61
+  - first:
+      213: -8298913592578070071
+    second: tf_beach_tileB_62
+  - first:
+      213: 3458255620050517491
+    second: tf_beach_tileB_63
+  - first:
+      213: -718798064346794304
+    second: tf_beach_tileB_64
+  - first:
+      213: 299378773400351745
+    second: tf_beach_tileB_65
+  - first:
+      213: -1663751314069695588
+    second: tf_beach_tileB_66
+  - first:
+      213: -1262370465157917904
+    second: tf_beach_tileB_67
+  - first:
+      213: 7621817754409968436
+    second: tf_beach_tileB_68
+  - first:
+      213: 7547146555050351793
+    second: tf_beach_tileB_69
+  - first:
+      213: 5835746457653458323
+    second: tf_beach_tileB_70
+  - first:
+      213: 3742816393311776012
+    second: tf_beach_tileB_71
+  - first:
+      213: 6287644277409604695
+    second: tf_beach_tileB_72
+  - first:
+      213: 1441425383896864527
+    second: tf_beach_tileB_73
+  - first:
+      213: -3373238133947865082
+    second: tf_beach_tileB_74
+  - first:
+      213: 3339030809489029145
+    second: tf_beach_tileB_75
+  - first:
+      213: 1037427856697462205
+    second: tf_beach_tileB_76
+  - first:
+      213: -944889812358874919
+    second: tf_beach_tileB_77
+  - first:
+      213: -4616398978707126798
+    second: tf_beach_tileB_78
+  - first:
+      213: 2577833210867564463
+    second: tf_beach_tileB_79
+  - first:
+      213: 4106730616264288154
+    second: tf_beach_tileB_80
+  - first:
+      213: -635169429428046003
+    second: tf_beach_tileB_81
+  - first:
+      213: 8095615835563994228
+    second: tf_beach_tileB_82
+  - first:
+      213: 8086857509037366850
+    second: tf_beach_tileB_83
+  - first:
+      213: 6284787347567384867
+    second: tf_beach_tileB_84
+  - first:
+      213: 5055320980183335560
+    second: tf_beach_tileB_85
+  - first:
+      213: -3294756670356546472
+    second: tf_beach_tileB_86
+  - first:
+      213: 3054901384425156273
+    second: tf_beach_tileB_87
+  - first:
+      213: -4308459097990536521
+    second: tf_beach_tileB_88
+  - first:
+      213: 9010418158571541634
+    second: tf_beach_tileB_89
+  - first:
+      213: -4942647889474155458
+    second: tf_beach_tileB_90
+  - first:
+      213: 2384499543542683578
+    second: tf_beach_tileB_91
+  - first:
+      213: 6990906813874027780
+    second: tf_beach_tileB_92
+  - first:
+      213: 8707557207407722784
+    second: tf_beach_tileB_93
+  - first:
+      213: 8248981477286720661
+    second: tf_beach_tileB_94
+  - first:
+      213: 4089179232650028465
+    second: tf_beach_tileB_95
+  - first:
+      213: -3768054394351371488
+    second: tf_beach_tileB_96
+  - first:
+      213: 6847290414462960319
+    second: tf_beach_tileB_97
+  - first:
+      213: -6233775216987091831
+    second: tf_beach_tileB_98
+  - first:
+      213: 648096008824190820
+    second: tf_beach_tileB_99
+  - first:
+      213: 972050545658384325
+    second: tf_beach_tileB_100
+  - first:
+      213: 6838564986801858020
+    second: tf_beach_tileB_101
+  - first:
+      213: -7390862304491408707
+    second: tf_beach_tileB_102
+  - first:
+      213: -7031776585974001528
+    second: tf_beach_tileB_103
+  - first:
+      213: 3018319013832608617
+    second: tf_beach_tileB_104
+  - first:
+      213: 5105389075728384637
+    second: tf_beach_tileB_105
+  - first:
+      213: -7293811342772748070
+    second: tf_beach_tileB_106
+  - first:
+      213: 2700486071093197945
+    second: tf_beach_tileB_107
+  - first:
+      213: 7992983179879231788
+    second: tf_beach_tileB_108
+  - first:
+      213: -3615778679538374074
+    second: tf_beach_tileB_109
+  - first:
+      213: -6859622107447303991
+    second: tf_beach_tileB_110
+  - first:
+      213: -3872850480604826713
+    second: tf_beach_tileB_111
+  - first:
+      213: 9207573686500074755
+    second: tf_beach_tileB_112
+  - first:
+      213: 3476180873958017269
+    second: tf_beach_tileB_113
+  - first:
+      213: 7137499496781632696
+    second: tf_beach_tileB_114
+  - first:
+      213: 1433746326943803654
+    second: tf_beach_tileB_115
+  - first:
+      213: 2681715061326251942
+    second: tf_beach_tileB_116
+  - first:
+      213: -2840685185321605315
+    second: tf_beach_tileB_117
+  - first:
+      213: 2188693762413560557
+    second: tf_beach_tileB_118
+  - first:
+      213: 2882681329892177606
+    second: tf_beach_tileB_119
+  - first:
+      213: 2530726170516951726
+    second: tf_beach_tileB_120
+  - first:
+      213: -8950710230457655886
+    second: tf_beach_tileB_121
+  - first:
+      213: -3476185170797031255
+    second: tf_beach_tileB_122
+  - first:
+      213: 6156110002821724493
+    second: tf_beach_tileB_123
+  - first:
+      213: -5063970217756206569
+    second: tf_beach_tileB_124
+  - first:
+      213: 2038581176646663617
+    second: tf_beach_tileB_125
+  - first:
+      213: -91024919907793920
+    second: tf_beach_tileB_126
+  - first:
+      213: 19520680345091593
+    second: tf_beach_tileB_127
+  - first:
+      213: -4271649051796612608
+    second: tf_beach_tileB_128
+  - first:
+      213: -5059047387694513240
+    second: tf_beach_tileB_129
+  - first:
+      213: 6738588955900495459
+    second: tf_beach_tileB_130
+  - first:
+      213: -3777055857264885117
+    second: tf_beach_tileB_131
+  - first:
+      213: -5594060811274995838
+    second: tf_beach_tileB_132
+  - first:
+      213: 3767277865560903519
+    second: tf_beach_tileB_133
+  - first:
+      213: -7509152843656375865
+    second: tf_beach_tileB_134
+  - first:
+      213: -3653522889337444438
+    second: tf_beach_tileB_135
+  - first:
+      213: 317994150850004871
+    second: tf_beach_tileB_136
+  - first:
+      213: -8962442081287639898
+    second: tf_beach_tileB_137
+  - first:
+      213: -4354125869624258161
+    second: tf_beach_tileB_138
+  - first:
+      213: 677897038235890999
+    second: tf_beach_tileB_139
+  - first:
+      213: -5569513196771101281
+    second: tf_beach_tileB_140
+  - first:
+      213: 5337418140128313941
+    second: tf_beach_tileB_141
+  - first:
+      213: 801748785502639729
+    second: tf_beach_tileB_142
+  - first:
+      213: 4790283943700724230
+    second: tf_beach_tileB_143
+  - first:
+      213: 7623542133999043327
+    second: tf_beach_tileB_144
+  - first:
+      213: -9009100004410790249
+    second: tf_beach_tileB_145
+  - first:
+      213: -8078093186709475743
+    second: tf_beach_tileB_146
+  - first:
+      213: -6435059829763192513
+    second: tf_beach_tileB_147
+  - first:
+      213: 7460750067777340613
+    second: tf_beach_tileB_148
+  - first:
+      213: 4727309198608281786
+    second: tf_beach_tileB_149
+  - first:
+      213: 5436443915376977088
+    second: tf_beach_tileB_150
+  - first:
+      213: -5917636860586250013
+    second: tf_beach_tileB_151
+  - first:
+      213: 1525719673123517925
+    second: tf_beach_tileB_152
+  - first:
+      213: 63026238867050072
+    second: tf_beach_tileB_153
+  - first:
+      213: 4812348784173290708
+    second: tf_beach_tileB_154
+  - first:
+      213: -862493778277455702
+    second: tf_beach_tileB_155
+  - first:
+      213: -4459284252672124385
+    second: tf_beach_tileB_156
+  - first:
+      213: -5124466929067536835
+    second: tf_beach_tileB_157
+  - first:
+      213: 3462551743950207585
+    second: tf_beach_tileB_158
+  - first:
+      213: -3994962192859504661
+    second: tf_beach_tileB_159
+  - first:
+      213: -1987050396337788626
+    second: tf_beach_tileB_160
+  - first:
+      213: -6654488434742028098
+    second: tf_beach_tileB_161
+  - first:
+      213: -1956825147839765297
+    second: tf_beach_tileB_162
+  - first:
+      213: 3927658376698860204
+    second: tf_beach_tileB_163
+  - first:
+      213: -6346840508488285609
+    second: tf_beach_tileB_164
+  - first:
+      213: 2215580485234454216
+    second: tf_beach_tileB_165
+  - first:
+      213: -210190692596588798
+    second: tf_beach_tileB_166
+  - first:
+      213: -2914689310510763584
+    second: tf_beach_tileB_167
+  - first:
+      213: -3361390693118573070
+    second: tf_beach_tileB_168
+  - first:
+      213: 1450152069352942684
+    second: tf_beach_tileB_169
+  - first:
+      213: 3229004360919316763
+    second: tf_beach_tileB_170
+  - first:
+      213: 287044979130387596
+    second: tf_beach_tileB_171
+  - first:
+      213: 7336434151721009147
+    second: tf_beach_tileB_172
+  - first:
+      213: -6786408964146802737
+    second: tf_beach_tileB_173
+  - first:
+      213: -3888668171790222834
+    second: tf_beach_tileB_174
+  - first:
+      213: -321885368466327008
+    second: tf_beach_tileB_175
+  - first:
+      213: 5873688736795519423
+    second: tf_beach_tileB_176
+  - first:
+      213: -4001146416931078035
+    second: tf_beach_tileB_177
+  - first:
+      213: -6800573450075966508
+    second: tf_beach_tileB_178
+  - first:
+      213: -250877943753855488
+    second: tf_beach_tileB_179
+  - first:
+      213: 5440977620319470557
+    second: tf_beach_tileB_180
+  - first:
+      213: 8946052569200910443
+    second: tf_beach_tileB_181
+  - first:
+      213: 8573554081587331547
+    second: tf_beach_tileB_182
+  - first:
+      213: -1306790565934629397
+    second: tf_beach_tileB_183
+  - first:
+      213: -5636276437163839380
+    second: tf_beach_tileB_184
+  - first:
+      213: 2495732964817416333
+    second: tf_beach_tileB_185
+  - first:
+      213: 8970736533194341923
+    second: tf_beach_tileB_186
+  - first:
+      213: -2398344562039268593
+    second: tf_beach_tileB_187
+  - first:
+      213: -5298468609568932274
+    second: tf_beach_tileB_188
+  - first:
+      213: 2596029393179379050
+    second: tf_beach_tileB_189
+  - first:
+      213: -2678207993387182927
+    second: tf_beach_tileB_190
+  - first:
+      213: -3085036303504773354
+    second: tf_beach_tileB_191
+  - first:
+      213: 1320581081537810683
+    second: tf_beach_tileB_192
+  - first:
+      213: 7381526353485289662
+    second: tf_beach_tileB_193
+  - first:
+      213: -2042470624541803648
+    second: tf_beach_tileB_194
+  - first:
+      213: -6399900288538214695
+    second: tf_beach_tileB_195
+  - first:
+      213: 5352703244371161525
+    second: tf_beach_tileB_196
+  - first:
+      213: -2152421394470366577
+    second: tf_beach_tileB_197
+  - first:
+      213: 2125015872034761635
+    second: tf_beach_tileB_198
+  - first:
+      213: -6434022112504723494
+    second: tf_beach_tileB_199
+  - first:
+      213: 4931159300792214769
+    second: tf_beach_tileB_200
+  - first:
+      213: 8832350440391500854
+    second: tf_beach_tileB_201
+  - first:
+      213: 4288616732596967598
+    second: tf_beach_tileB_202
+  - first:
+      213: -4606341153302212302
+    second: tf_beach_tileB_203
+  - first:
+      213: -8928719393466996763
+    second: tf_beach_tileB_204
+  - first:
+      213: -4007464735472054129
+    second: tf_beach_tileB_205
+  - first:
+      213: -5831318793341592662
+    second: tf_beach_tileB_206
+  - first:
+      213: 2177859967011759533
+    second: tf_beach_tileB_207
+  - first:
+      213: -7009880810993423418
+    second: tf_beach_tileB_208
+  - first:
+      213: -6104339926602886602
+    second: tf_beach_tileB_209
+  - first:
+      213: -2713529617915185987
+    second: tf_beach_tileB_210
+  - first:
+      213: -9102249427529832506
+    second: tf_beach_tileB_211
+  - first:
+      213: -4126142990979866355
+    second: tf_beach_tileB_212
+  - first:
+      213: -6016779497536964076
+    second: tf_beach_tileB_213
+  - first:
+      213: -5823294050644561571
+    second: tf_beach_tileB_214
+  - first:
+      213: -4839778914353604886
+    second: tf_beach_tileB_215
+  - first:
+      213: -2806627522182524184
+    second: tf_beach_tileB_216
+  - first:
+      213: 7562812408290155542
+    second: tf_beach_tileB_217
+  - first:
+      213: -5568356802019116596
+    second: tf_beach_tileB_218
+  - first:
+      213: 318041875596042146
+    second: tf_beach_tileB_219
+  - first:
+      213: 1070828524783346892
+    second: tf_beach_tileB_220
+  - first:
+      213: 6965623798712289371
+    second: tf_beach_tileB_221
+  - first:
+      213: -6942073991357109585
+    second: tf_beach_tileB_222
+  - first:
+      213: 9075022406793819025
+    second: tf_beach_tileB_223
+  - first:
+      213: -8820145533742613629
+    second: tf_beach_tileB_224
+  - first:
+      213: -2746298714815359260
+    second: tf_beach_tileB_225
+  - first:
+      213: -4513039010659799494
+    second: tf_beach_tileB_226
+  - first:
+      213: 5137641572880047954
+    second: tf_beach_tileB_227
+  - first:
+      213: -7012375768333920777
+    second: tf_beach_tileB_228
+  - first:
+      213: 1931195985260608804
+    second: tf_beach_tileB_229
+  - first:
+      213: 6956825853115966592
+    second: tf_beach_tileB_230
+  - first:
+      213: -422845231722941551
+    second: tf_beach_tileB_231
+  - first:
+      213: 8308877856574966080
+    second: tf_beach_tileB_232
+  - first:
+      213: 4496533493845949665
+    second: tf_beach_tileB_233
+  - first:
+      213: 7432711583573521546
+    second: tf_beach_tileB_234
+  - first:
+      213: 3181577255155442585
+    second: tf_beach_tileB_235
+  - first:
+      213: 1917897626766696037
+    second: tf_beach_tileB_236
+  - first:
+      213: 588513920128896724
+    second: tf_beach_tileB_237
+  - first:
+      213: -1583362097453151768
+    second: tf_beach_tileB_238
+  - first:
+      213: -5468085883969699177
+    second: tf_beach_tileB_239
+  - first:
+      213: 3047955177632535723
+    second: tf_beach_tileB_240
+  - first:
+      213: 3416272942504629175
+    second: tf_beach_tileB_241
+  - first:
+      213: 2338606490480320795
+    second: tf_beach_tileB_242
+  - first:
+      213: -3689292411905797274
+    second: tf_beach_tileB_243
+  - first:
+      213: -7547506438232739664
+    second: tf_beach_tileB_244
+  - first:
+      213: -8819791716270842522
+    second: tf_beach_tileB_245
+  - first:
+      213: -5395299848335222255
+    second: tf_beach_tileB_246
+  - first:
+      213: -8199611281818023788
+    second: tf_beach_tileB_247
+  - first:
+      213: -7359023282674455015
+    second: tf_beach_tileB_248
+  - first:
+      213: 7416845815912968502
+    second: tf_beach_tileB_249
+  - first:
+      213: -696513537111133200
+    second: tf_beach_tileB_250
+  - first:
+      213: 7205649264327558715
+    second: tf_beach_tileB_251
+  - first:
+      213: 1484484102555279406
+    second: tf_beach_tileB_252
+  - first:
+      213: 7928964293006865695
+    second: tf_beach_tileB_253
+  - first:
+      213: 6723784399352483671
+    second: tf_beach_tileB_254
+  - first:
+      213: -1636226916447215123
+    second: tf_beach_tileB_255
+  - first:
+      213: 6794072737891416399
+    second: tf_beach_tileB_256
+  - first:
+      213: 6710620534988393660
+    second: tf_beach_tileB_257
+  - first:
+      213: 3936872836943805071
+    second: tf_beach_tileB_258
+  - first:
+      213: -5011544660067181888
+    second: tf_beach_tileB_259
+  - first:
+      213: 3649613074354473424
+    second: tf_beach_tileB_260
+  - first:
+      213: -6515009863184516626
+    second: tf_beach_tileB_261
+  - first:
+      213: -2743010728005009145
+    second: tf_beach_tileB_262
+  - first:
+      213: 1785452610938110308
+    second: tf_beach_tileB_263
+  - first:
+      213: -4103174155394476597
+    second: tf_beach_tileB_264
+  - first:
+      213: -1690937797443037190
+    second: tf_beach_tileB_265
+  - first:
+      213: -5241097450588854039
+    second: tf_beach_tileB_266
+  - first:
+      213: 2933228069724382956
+    second: tf_beach_tileB_267
+  - first:
+      213: -3126175332225603379
+    second: tf_beach_tileB_268
+  - first:
+      213: 3587203173458535084
+    second: tf_beach_tileB_269
+  - first:
+      213: -3761323379193064253
+    second: tf_beach_tileB_270
+  - first:
+      213: 2050886463489814193
+    second: tf_beach_tileB_271
+  - first:
+      213: 2535288691975755152
+    second: tf_beach_tileB_272
+  - first:
+      213: 8268205036343512311
+    second: tf_beach_tileB_273
+  - first:
+      213: -486879091818188238
+    second: tf_beach_tileB_274
+  - first:
+      213: -4463118889937437947
+    second: tf_beach_tileB_275
+  - first:
+      213: 3450865159873673417
+    second: tf_beach_tileB_276
+  - first:
+      213: 6353583262302687361
+    second: tf_beach_tileB_277
+  - first:
+      213: 4683723242193771245
+    second: tf_beach_tileB_278
+  - first:
+      213: 7786588094072458545
+    second: tf_beach_tileB_279
+  - first:
+      213: -7657692051318668016
+    second: tf_beach_tileB_280
+  - first:
+      213: 69049816578908712
+    second: tf_beach_tileB_281
+  - first:
+      213: 2733082973591560556
+    second: tf_beach_tileB_282
+  - first:
+      213: 22796305889134337
+    second: tf_beach_tileB_283
+  - first:
+      213: 4750070404539563008
+    second: tf_beach_tileB_284
+  - first:
+      213: -8915351805457968959
+    second: tf_beach_tileB_285
+  - first:
+      213: -1304969075672502048
+    second: tf_beach_tileB_286
+  - first:
+      213: 3651015207823391186
+    second: tf_beach_tileB_287
+  - first:
+      213: 145769168709951162
+    second: tf_beach_tileB_288
+  - first:
+      213: -2538888127017755382
+    second: tf_beach_tileB_289
+  - first:
+      213: 3688003659305222920
+    second: tf_beach_tileB_290
+  - first:
+      213: 9063968551066006967
+    second: tf_beach_tileB_291
+  - first:
+      213: 2693995886049981508
+    second: tf_beach_tileB_292
+  - first:
+      213: 5438271955624201103
+    second: tf_beach_tileB_293
+  - first:
+      213: 8421640951882764853
+    second: tf_beach_tileB_294
+  - first:
+      213: -3062756327581648348
+    second: tf_beach_tileB_295
+  - first:
+      213: 7515794120050544997
+    second: tf_beach_tileB_296
+  - first:
+      213: 695556818770799711
+    second: tf_beach_tileB_297
+  - first:
+      213: 4959183363373068207
+    second: tf_beach_tileB_298
+  - first:
+      213: 3131773850161380833
+    second: tf_beach_tileB_299
+  - first:
+      213: 3753820840099544329
+    second: tf_beach_tileB_300
+  - first:
+      213: 436613421711930664
+    second: tf_beach_tileB_301
+  - first:
+      213: 4672125774509011781
+    second: tf_beach_tileB_302
+  - first:
+      213: -4959816777927023521
+    second: tf_beach_tileB_303
+  - first:
+      213: 5601851992619210955
+    second: tf_beach_tileB_304
+  - first:
+      213: -2238635350663515521
+    second: tf_beach_tileB_305
+  - first:
+      213: 2656016766066075290
+    second: tf_beach_tileB_306
+  - first:
+      213: -829374951624661519
+    second: tf_beach_tileB_307
+  - first:
+      213: -7354012435231361191
+    second: tf_beach_tileB_308
+  - first:
+      213: -7551282124015499653
+    second: tf_beach_tileB_309
+  - first:
+      213: 7607452105125552621
+    second: tf_beach_tileB_310
+  - first:
+      213: -6347569637737540990
+    second: tf_beach_tileB_311
+  - first:
+      213: 3467504317736166115
+    second: tf_beach_tileB_312
+  - first:
+      213: -2334560357491203055
+    second: tf_beach_tileB_313
+  - first:
+      213: 3486635355297207683
+    second: tf_beach_tileB_314
+  - first:
+      213: -6306522138866951942
+    second: tf_beach_tileB_315
+  - first:
+      213: -4829003607465028611
+    second: tf_beach_tileB_316
+  - first:
+      213: -7021199267107705538
+    second: tf_beach_tileB_317
+  - first:
+      213: 5746467063177198178
+    second: tf_beach_tileB_318
+  - first:
+      213: -8201932547406777242
+    second: tf_beach_tileB_319
+  - first:
+      213: 6725393059995448041
+    second: tf_beach_tileB_320
+  - first:
+      213: -3123679522084156691
+    second: tf_beach_tileB_321
+  - first:
+      213: -5397649338633684223
+    second: tf_beach_tileB_322
+  - first:
+      213: -5029628408562477238
+    second: tf_beach_tileB_323
+  - first:
+      213: -8657484657331570380
+    second: tf_beach_tileB_324
+  - first:
+      213: 3799706446573008174
+    second: tf_beach_tileB_325
+  - first:
+      213: 5633466144978813707
+    second: tf_beach_tileB_326
+  - first:
+      213: 7303089094591147511
+    second: tf_beach_tileB_327
+  - first:
+      213: 3826393173977506606
+    second: tf_beach_tileB_328
+  - first:
+      213: 8379853962830649742
+    second: tf_beach_tileB_329
+  - first:
+      213: 3834945305975268325
+    second: tf_beach_tileB_330
+  - first:
+      213: 2839949998717642609
+    second: tf_beach_tileB_331
+  - first:
+      213: 6850398062960707890
+    second: tf_beach_tileB_332
+  - first:
+      213: -6434319910088300381
+    second: tf_beach_tileB_333
+  - first:
+      213: -4357328304110972086
+    second: tf_beach_tileB_334
+  - first:
+      213: -3484821179705517451
+    second: tf_beach_tileB_335
+  - first:
+      213: -1518104535550037026
+    second: tf_beach_tileB_336
+  - first:
+      213: -8216461045850918939
+    second: tf_beach_tileB_337
+  - first:
+      213: 5472701384048431212
+    second: tf_beach_tileB_338
+  - first:
+      213: -1615347450523008480
+    second: tf_beach_tileB_339
+  - first:
+      213: -6729337121262469143
+    second: tf_beach_tileB_340
+  - first:
+      213: -6865502230337977152
+    second: tf_beach_tileB_341
+  - first:
+      213: 1121311077260553034
+    second: tf_beach_tileB_342
+  - first:
+      213: -8522991088477672181
+    second: tf_beach_tileB_343
+  - first:
+      213: -364754838265777898
+    second: tf_beach_tileB_344
+  - first:
+      213: -714885229765664832
+    second: tf_beach_tileB_345
+  - first:
+      213: 5851760981237289210
+    second: tf_beach_tileB_346
+  - first:
+      213: 3418993196574938807
+    second: tf_beach_tileB_347
+  - first:
+      213: 7380194217493607432
+    second: tf_beach_tileB_348
+  - first:
+      213: 1346539253926533269
+    second: tf_beach_tileB_349
+  - first:
+      213: -5903394079233828764
+    second: tf_beach_tileB_350
+  - first:
+      213: -6814923227649526684
+    second: tf_beach_tileB_351
+  - first:
+      213: -4580665519996963979
+    second: tf_beach_tileB_352
+  - first:
+      213: -9058078639036060602
+    second: tf_beach_tileB_353
+  - first:
+      213: 9044886321815152145
+    second: tf_beach_tileB_354
+  - first:
+      213: 3921928548151073585
+    second: tf_beach_tileB_355
+  - first:
+      213: 8005569853727652180
+    second: tf_beach_tileB_356
+  - first:
+      213: 9103619715258885233
+    second: tf_beach_tileB_357
+  - first:
+      213: 5343256553753435619
+    second: tf_beach_tileB_358
+  - first:
+      213: -2893935914799552844
+    second: tf_beach_tileB_359
+  - first:
+      213: 7966240395106550863
+    second: tf_beach_tileB_360
+  - first:
+      213: 8348323797542537266
+    second: tf_beach_tileB_361
+  - first:
+      213: -197767884016736611
+    second: tf_beach_tileB_362
+  - first:
+      213: -5849043861149894745
+    second: tf_beach_tileB_363
+  - first:
+      213: 1616845388879835654
+    second: tf_beach_tileB_364
+  - first:
+      213: 2605450439936231348
+    second: tf_beach_tileB_365
+  - first:
+      213: -7962190554109100235
+    second: tf_beach_tileB_366
+  - first:
+      213: -2605201085588049050
+    second: tf_beach_tileB_367
+  - first:
+      213: 8171721304563237347
+    second: tf_beach_tileB_368
+  - first:
+      213: 3723411316207118009
+    second: tf_beach_tileB_369
+  - first:
+      213: 3677612152697318990
+    second: tf_beach_tileB_370
+  - first:
+      213: -4154291697544144621
+    second: tf_beach_tileB_371
+  - first:
+      213: -2785162722216687541
+    second: tf_beach_tileB_372
+  - first:
+      213: 2689603326150086693
+    second: tf_beach_tileB_373
+  - first:
+      213: -2119647150979734017
+    second: tf_beach_tileB_374
+  - first:
+      213: -2487254954410200229
+    second: tf_beach_tileB_375
+  - first:
+      213: -8968170578273356561
+    second: tf_beach_tileB_376
+  - first:
+      213: -8358692222766693211
+    second: tf_beach_tileB_377
+  - first:
+      213: 7904146152433470284
+    second: tf_beach_tileB_378
+  - first:
+      213: -519331476527069524
+    second: tf_beach_tileB_379
+  - first:
+      213: 1845739418898584063
+    second: tf_beach_tileB_380
+  - first:
+      213: -216841742297024087
+    second: tf_beach_tileB_381
+  - first:
+      213: 1876696309664657207
+    second: tf_beach_tileB_382
+  - first:
+      213: 3005311780168574051
+    second: tf_beach_tileB_383
+  - first:
+      213: -6505194316100089817
+    second: tf_beach_tileB_384
+  - first:
+      213: 7221921951757042871
+    second: tf_beach_tileB_385
+  - first:
+      213: -3619710814379241416
+    second: tf_beach_tileB_386
+  - first:
+      213: -1301531197046088409
+    second: tf_beach_tileB_387
+  - first:
+      213: -2705273350273916381
+    second: tf_beach_tileB_388
+  - first:
+      213: -4731691906491549297
+    second: tf_beach_tileB_389
+  - first:
+      213: 1056414228868885738
+    second: tf_beach_tileB_390
+  - first:
+      213: -1092668188870057072
+    second: tf_beach_tileB_391
+  - first:
+      213: -9165786882205555425
+    second: tf_beach_tileB_392
+  - first:
+      213: 6789493931075984039
+    second: tf_beach_tileB_393
+  - first:
+      213: -8459917350359691072
+    second: tf_beach_tileB_394
+  - first:
+      213: -273934118720670303
+    second: tf_beach_tileB_395
+  - first:
+      213: 2815683136666936920
+    second: tf_beach_tileB_396
+  - first:
+      213: -3338240736424979028
+    second: tf_beach_tileB_397
+  - first:
+      213: 6284987496413980225
+    second: tf_beach_tileB_398
+  - first:
+      213: 8818294244512214729
+    second: tf_beach_tileB_399
+  - first:
+      213: 3812573684825207092
+    second: tf_beach_tileB_400
+  - first:
+      213: -1068178193911425808
+    second: tf_beach_tileB_401
+  - first:
+      213: 2229003070503317184
+    second: tf_beach_tileB_402
+  - first:
+      213: -3819719802946130384
+    second: tf_beach_tileB_403
+  - first:
+      213: 8579856271405063164
+    second: tf_beach_tileB_404
+  - first:
+      213: -4183893066318372795
+    second: tf_beach_tileB_405
+  - first:
+      213: 7037979553014910346
+    second: tf_beach_tileB_406
+  - first:
+      213: 6966220749243539002
+    second: tf_beach_tileB_407
+  - first:
+      213: 5995447402112383326
+    second: tf_beach_tileB_408
+  - first:
+      213: -6546703438648982286
+    second: tf_beach_tileB_409
+  - first:
+      213: -550085356089153173
+    second: tf_beach_tileB_410
+  - first:
+      213: 8384283270952387266
+    second: tf_beach_tileB_411
+  - first:
+      213: -7693932260980339025
+    second: tf_beach_tileB_412
+  - first:
+      213: -2921213908494849363
+    second: tf_beach_tileB_413
+  - first:
+      213: -4014622276901163811
+    second: tf_beach_tileB_414
+  - first:
+      213: 6000650835065722327
+    second: tf_beach_tileB_415
+  - first:
+      213: -5329242534217818564
+    second: tf_beach_tileB_416
+  - first:
+      213: -7091866275359341719
+    second: tf_beach_tileB_417
+  - first:
+      213: -4616588177515393648
+    second: tf_beach_tileB_418
+  - first:
+      213: -2561673572836174563
+    second: tf_beach_tileB_419
+  - first:
+      213: 1870966211532402970
+    second: tf_beach_tileB_420
+  - first:
+      213: -3545213408325003321
+    second: tf_beach_tileB_421
+  - first:
+      213: 6280560170839424628
+    second: tf_beach_tileB_422
+  - first:
+      213: 1199689180392866269
+    second: tf_beach_tileB_423
+  - first:
+      213: 7800878293710733853
+    second: tf_beach_tileB_424
+  - first:
+      213: 889429785671643524
+    second: tf_beach_tileB_425
+  - first:
+      213: -9049783391002663508
+    second: tf_beach_tileB_426
+  - first:
+      213: -157560572751247385
+    second: tf_beach_tileB_427
+  - first:
+      213: -8295667238675910298
+    second: tf_beach_tileB_428
+  - first:
+      213: 1073806400755089486
+    second: tf_beach_tileB_429
+  - first:
+      213: -5378097219602261884
+    second: tf_beach_tileB_430
+  - first:
+      213: 2007518288172532054
+    second: tf_beach_tileB_431
+  - first:
+      213: 8209279007994711863
+    second: tf_beach_tileB_432
+  - first:
+      213: -4276575807258730484
+    second: tf_beach_tileB_433
+  - first:
+      213: 1863417101251784916
+    second: tf_beach_tileB_434
+  - first:
+      213: -5012912989595571619
+    second: tf_beach_tileB_435
+  - first:
+      213: 4344305944257177721
+    second: tf_beach_tileB_436
+  - first:
+      213: 3229690603261165960
+    second: tf_beach_tileB_437
+  - first:
+      213: 5722306727180307861
+    second: tf_beach_tileB_438
+  - first:
+      213: -3681294209209200343
+    second: tf_beach_tileB_439
+  - first:
+      213: -4671252285829653301
+    second: tf_beach_tileB_440
+  - first:
+      213: 1828475946066882170
+    second: tf_beach_tileB_441
+  - first:
+      213: -8463382221473783329
+    second: tf_beach_tileB_442
+  - first:
+      213: 8014885723038426795
+    second: tf_beach_tileB_443
+  - first:
+      213: 2856865566864765091
+    second: tf_beach_tileB_444
+  - first:
+      213: -4467454124721147011
+    second: tf_beach_tileB_445
+  - first:
+      213: -3960889952241585236
+    second: tf_beach_tileB_446
+  - first:
+      213: 7401058053741845938
+    second: tf_beach_tileB_447
+  - first:
+      213: -1746685002635612141
+    second: tf_beach_tileB_448
+  - first:
+      213: 4212255447330997544
+    second: tf_beach_tileB_449
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 47
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tf_beach_tileB_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b06287dbbb86d50800000000000000
+      internalID: 6730836065544178472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06da8f372f315aee0800000000000000
+      internalID: -1250571389476754080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d42e1de9661b0520800000000000000
+      internalID: 2669251848352703701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a82ca7c849b91c0800000000000000
+      internalID: -4495836471923406302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed3ae2ad6f4fb000800000000000000
+      internalID: 53849052855025126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9b72fe43f359f0800000000000000
+      internalID: -480773214797325624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd46ae5820e811c20800000000000000
+      internalID: 3175475353760720091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 144
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd182d53647e4a40800000000000000
+      internalID: 5354344977103592951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 240
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850bcfaf7377def0800000000000000
+      internalID: -83471075835705978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe7a96aeb81ce690800000000000000
+      internalID: -7571649666398650692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d309faab053ad0800000000000000
+      internalID: -2723257570725473089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3753d146560ec4e30800000000000000
+      internalID: 4489209654657496435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b522d0e8e4adf0800000000000000
+      internalID: -169754833637230368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda3cdc862e33d10800000000000000
+      internalID: 2104274390668783103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1825442b8cad5d950800000000000000
+      internalID: 6473320594934092417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02d24b2126c14f0800000000000000
+      internalID: -856701996635447083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daefef7ebe126bb20800000000000000
+      internalID: 3149742286485520045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e31da257cab240800000000000000
+      internalID: 4808374710076434615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda17b0dc3e6e0f0800000000000000
+      internalID: -1087931790163595849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cef9c297f4bc1b0800000000000000
+      internalID: -5635323126865728505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9da3e921d204b0800000000000000
+      internalID: -5475584219085430809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf05b80af0a35d0800000000000000
+      internalID: -3082133812775158612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42246611895669450800000000000000
+      internalID: 6095170849493893668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa71ab563cd265c0800000000000000
+      internalID: -4223571374496449800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0880f6af749cf0800000000000000
+      internalID: -246431724621788261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235210c3cefe2fb00800000000000000
+      internalID: 861014276679214386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3287ad8e279e2b60800000000000000
+      internalID: 7723276637187834429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395bdafeb7cbcf050800000000000000
+      internalID: 5835746457653458323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca1d4c5b7695070800000000000000
+      internalID: 8095615835563994228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3299f9c5bcc083750800000000000000
+      internalID: 6284787347567384867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9c02c34ca642d0800000000000000
+      internalID: -3294756670356546472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc9d5d77e2d79a0800000000000000
+      internalID: -6233775216987091831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4677052e2ef7ef800800000000000000
+      internalID: 648096008824190820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf41b532da6d7d00800000000000000
+      internalID: 972050545658384325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5afbb8f9677ee50800000000000000
+      internalID: 6838564986801858020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2f6fc74e16e6990800000000000000
+      internalID: -7390862304491408707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8805c15737c1a6e90800000000000000
+      internalID: -7031776585974001528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bcc4eb62933e920800000000000000
+      internalID: 3018319013832608617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7243fa905cf9d640800000000000000
+      internalID: 5105389075728384637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 240
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c05f5a3d27ca90800000000000000
+      internalID: -7293811342772748070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 144
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ef20890abdc0a0800000000000000
+      internalID: -6859622107447303991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33953d10fd04ac0800000000000000
+      internalID: -3872850480604826713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305221beb7fd7cf70800000000000000
+      internalID: 9207573686500074755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f846475610ed3030800000000000000
+      internalID: 3476180873958017269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4d23ae9fd7d0360800000000000000
+      internalID: 7137499496781632696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820be2a5b3359bc0800000000000000
+      internalID: -3777055857264885117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287350ca457ed52b0800000000000000
+      internalID: -5594060811274995838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_134
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c15fbd16412ac790800000000000000
+      internalID: -7509152843656375865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_135
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa768421a441c4dc0800000000000000
+      internalID: -3653522889337444438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_137
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac66d089620f9380800000000000000
+      internalID: -8962442081287639898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c407db68a8e98760800000000000000
+      internalID: 7460750067777340613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_149
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bb767ba6ca9140800000000000000
+      internalID: 4727309198608281786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e06100f0227b40800000000000000
+      internalID: 5436443915376977088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_151
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0bff6d0a450eda0800000000000000
+      internalID: -5917636860586250013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_152
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e53a5785f17c2510800000000000000
+      internalID: 1525719673123517925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_153
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e0333c70aefd000800000000000000
+      internalID: 63026238867050072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_154
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d49ee7e8b5e8c240800000000000000
+      internalID: 4812348784173290708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21936eb78d18630800000000000000
+      internalID: 3927658376698860204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_164
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7520f7d3f2e7be7a0800000000000000
+      internalID: -6346840508488285609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_165
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceefa176b25fbe10800000000000000
+      internalID: 2215580485234454216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_166
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fdfa0cda0451df0800000000000000
+      internalID: -210190692596588798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_167
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b068c381fc87d0800000000000000
+      internalID: -2914689310510763584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_168
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50d5959f0f951d0800000000000000
+      internalID: -3361390693118573070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_176
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9e8e539c8838150800000000000000
+      internalID: 5873688736795519423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_177
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d600f7468821978c0800000000000000
+      internalID: -4001146416931078035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_178
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3f4476a728f91a0800000000000000
+      internalID: -6800573450075966508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_179
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e2290e6d3b48cf0800000000000000
+      internalID: -250877943753855488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_180
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd30ef1715c328b40800000000000000
+      internalID: 5440977620319470557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_181
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e039d963c62c70800000000000000
+      internalID: 8946052569200910443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef5114fde0876b0800000000000000
+      internalID: -5298468609568932274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650eee8af2f60420800000000000000
+      internalID: 2596029393179379050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b49b8f050815dad0800000000000000
+      internalID: -2678207993387182927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_beach_tileB_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 144
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf099263f75a35210800000000000000
+      internalID: 1320581081537810683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
