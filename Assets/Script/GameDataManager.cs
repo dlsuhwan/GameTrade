@@ -9,7 +9,7 @@ using System;
 public enum thing
 {
     index,
-    price,
+    value,
 
     max,
 }
@@ -18,7 +18,7 @@ public enum thing
 public class Things
 {
     public string index;
-    public string price;
+    public string value;
 }
 public class JsonHelper
 {
@@ -44,7 +44,18 @@ public class JsonHelper
 
 public class GameDataManager : MonoBehaviour
 {
+    public static GameDataManager instanse;
+
     public static string key = "tradeGame";
+
+
+    public static Dictionary<string, string> LevelTempalte = new Dictionary<string, string>();
+
+    private void Awake()
+    {
+        if (instanse == null)
+            instanse = this;
+    }
     public static void DataSave(string strData, string fileName)
     {
         string[] strDatas = strData.Split('&');
@@ -54,7 +65,7 @@ public class GameDataManager : MonoBehaviour
         {
             datas[i] = new Things();
             datas[i].index = Encrypt(strDatas[i].Split('#')[(int)thing.index], key);
-            datas[i].price = Encrypt(strDatas[i].Split('#')[(int)thing.price], key);
+            datas[i].value = Encrypt(strDatas[i].Split('#')[(int)thing.value], key);
         }
         
         //Json 데이터로 만들기
@@ -63,7 +74,7 @@ public class GameDataManager : MonoBehaviour
         File.WriteAllText(Application.persistentDataPath + $"/{fileName}.json", jsonData);    ///Resources  //유니티 에디터
         //File.WriteAllText(Application.persistentDataPath +  $"/{fileName}.json", jsonData);    ///Resources  //모바일 에디터
     }
-    public static string DataLoad(string fileName)
+    public static void DataLoad(string fileName, Dictionary<string, string> dic)
     {
         //Mobile
         string jsonData = File.ReadAllText(Application.persistentDataPath + $"/{fileName}.json");   ///Resources
@@ -71,7 +82,7 @@ public class GameDataManager : MonoBehaviour
         //PC
         //string jsonData = File.ReadAllText(Application.dataPath + $"/{fileName}.json"); 
 
-        if (string.IsNullOrEmpty(jsonData)) return "";
+        if (string.IsNullOrEmpty(jsonData)) return;
 
         Things[] data = JsonHelper.FromJson<Things>(jsonData);
         
@@ -81,12 +92,22 @@ public class GameDataManager : MonoBehaviour
         for (int i = 0; i < data.Length; i++)
         {
             value[(int)thing.index] = Decrypt((data[i].index), key);
-            value[(int)thing.price] = Decrypt((data[i].price), key);
+            value[(int)thing.value] = Decrypt((data[i].value), key);
             
-            values[i] = string.Join("#", value);
+            if(dic.ContainsKey(value[(int)thing.index]))
+            {
+                dic[value[(int)thing.index]] = value[(int)thing.value];
+            }
+            else
+            {
+                dic.Add(value[(int)thing.index], value[(int)thing.value]);
+            }
         }
-
-        return string.Join("&", values);
+    }
+    
+    public static void TamplateDataLoad()
+    {
+        DataLoad("LvData", LevelTempalte);
     }
 
     public static string Decrypt(string textToDecrypt, string key)
