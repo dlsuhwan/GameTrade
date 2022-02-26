@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
     
     public GameObject tradeScroll;
-
+ 
 
     public GameObject UICanvas;
     public Transform UICanvas0;
