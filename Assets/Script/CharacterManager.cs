@@ -13,6 +13,7 @@ public class CharacterManager : MonoBehaviour, IPointerDownHandler,
         public int exp;
         public int hp;
         public int money;
+        public string skill;
     }
     public static CharacterManager instance;
 
@@ -117,23 +118,32 @@ public class CharacterManager : MonoBehaviour, IPointerDownHandler,
         
         while (true)
         {
-            if (player.position.x < -5f || player.position.x > 12f || player.position.y < -3f || player.position.y > 3f)
-            {
-                cameraObj.transform.position = player.position;
-                camera.GetComponent<Transform>().SetParent(cameraObj);
+            if (player.position.x < -5f)
+                player.position = new Vector3(-5f, player.position.y, 0);
+            if (player.position.x > 12f)
+                player.position = new Vector3(12f, player.position.y, 0);
 
-                if (player.position.x < -5f)
-                    cameraObj.position = new Vector3(-5f, cameraObj.position.y, 0);
-                if (player.position.x > 12f)
-                    cameraObj.position = new Vector3(12f, cameraObj.position.y, 0);
+            if (player.position.y < -3f)
+                player.position = new Vector3(player.position.x, -3f, 0);
+            if (player.position.y > 3f)
+                player.position = new Vector3(player.position.x, 3f, 0);
+            //if (player.position.x < -5f || player.position.x > 12f || player.position.y < -3f || player.position.y > 3f)
+            //{
+            //    cameraObj.transform.position = player.position;
+            //    camera.GetComponent<Transform>().SetParent(cameraObj);
 
-                if (player.position.y < -3f)
-                    cameraObj.position = new Vector3(cameraObj.position.x, -3f, 0);
-                if (player.position.y > 3f)
-                    cameraObj.position = new Vector3(cameraObj.position.x, 3f, 0);
-            }
-            else
-                camera.GetComponent<Transform>().SetParent(player);
+            //    if (player.position.x < -5f)
+            //        cameraObj.position = new Vector3(-5f, cameraObj.position.y, 0);
+            //    if (player.position.x > 12f)
+            //        cameraObj.position = new Vector3(12f, cameraObj.position.y, 0);
+
+            //    if (player.position.y < -3f)
+            //        cameraObj.position = new Vector3(cameraObj.position.x, -3f, 0);
+            //    if (player.position.y > 3f)
+            //        cameraObj.position = new Vector3(cameraObj.position.x, 3f, 0);
+            //}
+            //else
+            //    camera.GetComponent<Transform>().SetParent(player);
 
             releaseTime += Time.deltaTime;
             if (releaseTime >= 0.1f)
