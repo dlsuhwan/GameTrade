@@ -52,17 +52,21 @@ public class GameManager : MonoBehaviour
                 CharacterManager.instance.playerInfo.hp = hp = PlayerPrefs.GetInt("hp");
                 CharacterManager.instance.playerInfo.exp = exp = PlayerPrefs.GetInt("exp");
                 CharacterManager.instance.playerInfo.money = money = PlayerPrefs.GetInt("money");
-                CharacterManager.instance.playerInfo.skill = skill = PlayerPrefs.GetString("skill");
+                
+                if(PlayerPrefs.HasKey("skill"))
+                    CharacterManager.instance.playerInfo.skill = skill = PlayerPrefs.GetString("skill");
+                else
+                    CharacterManager.instance.playerInfo.skill = skill = "0#1&0#1&0#1";
             }
             else
             {
-                CharacterManager.instance.playerInfo.lv = 1;
-                CharacterManager.instance.playerInfo.hp = 1;
-                CharacterManager.instance.playerInfo.exp = 0;
-                CharacterManager.instance.playerInfo.money = 0;
-                CharacterManager.instance.playerInfo.skill = "&&";
+                CharacterManager.instance.playerInfo.lv = lv = 1;
+                CharacterManager.instance.playerInfo.hp = hp = 1;
+                CharacterManager.instance.playerInfo.exp = exp = 0;
+                CharacterManager.instance.playerInfo.money = money = 0;
+                CharacterManager.instance.playerInfo.skill = skill = "0#1&0#1&0#1";
             }
-            UpdateUI_ProfileState(lv, hp, exp, money, skill);
+            UpdateUI_ProfileState(lv, hp, money, exp, skill);
         }
     }
     public void DataSave()
@@ -76,7 +80,7 @@ public class GameManager : MonoBehaviour
             PlayerPrefs.SetString("skill", CharacterManager.instance.playerInfo.skill);
         }
     }
-    public void UpdateUI_ProfileState(int lv, int hp, int exp, int money, string skill)
+    public void UpdateUI_ProfileState(int lv, int hp, int money, int exp, string skill)
     {
         if (UICanvas0 == null) UICanvas0 = UICanvas.transform.Find("UICanvas0");
         if (UICanvas1 == null) UICanvas1 = UICanvas.transform.Find("UICanvas1");
@@ -84,32 +88,28 @@ public class GameManager : MonoBehaviour
         if (UICanvas3 == null) UICanvas3 = UICanvas.transform.Find("UICanvas3");
 
 
-        UpdateUI_Lv(lv);
-        UpdateUI_Hp(hp);
+        UpdateUI_Profile(lv, hp, money);
         UpdateUI_Exp(exp);
-        UpdateUI_Money(money);
         UpdateUI_Skill(skill);
     }
-    public void UpdateUI_Lv(int curLv)
+    public void UpdateUI_Profile(int curLv, int curHp, int curMoney)
     {
         if (ProfilePanel == null)
             ProfilePanel = UICanvas0.Find("ProfilePanel");
+
+         
+        ProfilePanel.Find("Lv/value").GetComponent<Text>().text = curLv.ToString();
+        ProfilePanel.Find("Hp/value").GetComponent<Text>().text = $"{curHp} / {curHp}";
+        ProfilePanel.Find("Hp").GetComponent<Image>().fillAmount = curHp / 100;
+
     }
-    public void UpdateUI_Hp(int curHp)
-    {
-        if (ProfilePanel == null)
-            ProfilePanel = UICanvas0.Find("ProfilePanel");
-    }
+    
     public void UpdateUI_Exp(int curExp)
     {
         if (ExpPanel == null)
             ExpPanel = UICanvas0.Find("ExpPanel");
     }
-    public void UpdateUI_Money(int curMoney)
-    {
-        if (ProfilePanel == null)
-            ProfilePanel = UICanvas0.Find("ProfilePanel");
-    }
+
     public void UpdateUI_Skill(string curSkill)
     {
         if (SkillPanel == null)
@@ -127,7 +127,7 @@ public class GameManager : MonoBehaviour
                 SkillPanel.Find($"Button{btnIndex}").GetComponent<Button>().onClick.RemoveAllListeners();
                 SkillPanel.Find($"Button{btnIndex}").GetComponent<Button>().onClick.AddListener(delegate() {
                     SkillPanel.Find($"Button{btnIndex}/FilledImage").gameObject.SetActive(true);
-                    StartCoroutine(SkillUse(SkillPanel.Find($"Button{btnIndex}/FilledImage"), float.Parse(mySkills[i].Split('#')[1])));
+                    StartCoroutine(SkillUse(SkillPanel.Find($"Button{btnIndex}/FilledImage"), float.Parse(mySkills[btnIndex].Split('#')[1])));
                 });
             }
             else
@@ -151,6 +151,7 @@ public class GameManager : MonoBehaviour
             Debug.Log(DateTime.Now.ToString("HH:mm:ss"));
             Debug.Log(Time.deltaTime / time);
         }
+        filledImg.gameObject.SetActive(false);
         yield break;
     }
 
