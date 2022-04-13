@@ -13,6 +13,7 @@ public class CharacterManager : MonoBehaviour, IPointerDownHandler,
         public int exp;
         public int hp;
         public int money;
+        public int dia;
         public string skill;
     }
     public static CharacterManager instance;

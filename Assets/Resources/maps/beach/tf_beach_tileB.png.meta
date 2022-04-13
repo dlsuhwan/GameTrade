@@ -1373,6 +1373,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1381,9 +1383,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -1404,9 +1406,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -2991,6 +2996,80 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tf_beach_tileB_1: -1250571389476754080
+      tf_beach_tileB_7: 5354344977103592951
+      tf_beach_tileB_189: 2596029393179379050
+      tf_beach_tileB_6: 3175475353760720091
+      tf_beach_tileB_152: 1525719673123517925
+      tf_beach_tileB_0: 6730836065544178472
+      tf_beach_tileB_102: -7390862304491408707
+      tf_beach_tileB_16: -2723257570725473089
+      tf_beach_tileB_34: -5475584219085430809
+      tf_beach_tileB_135: -3653522889337444438
+      tf_beach_tileB_179: -250877943753855488
+      tf_beach_tileB_70: 5835746457653458323
+      tf_beach_tileB_103: -7031776585974001528
+      tf_beach_tileB_19: 2104274390668783103
+      tf_beach_tileB_112: 9207573686500074755
+      tf_beach_tileB_149: 4727309198608281786
+      tf_beach_tileB_54: 7723276637187834429
+      tf_beach_tileB_32: -1087931790163595849
+      tf_beach_tileB_100: 972050545658384325
+      tf_beach_tileB_106: -7293811342772748070
+      tf_beach_tileB_21: -856701996635447083
+      tf_beach_tileB_5: -480773214797325624
+      tf_beach_tileB_82: 8095615835563994228
+      tf_beach_tileB_86: -3294756670356546472
+      tf_beach_tileB_49: -246431724621788261
+      tf_beach_tileB_2: 2669251848352703701
+      tf_beach_tileB_50: 861014276679214386
+      tf_beach_tileB_20: 6473320594934092417
+      tf_beach_tileB_113: 3476180873958017269
+      tf_beach_tileB_177: -4001146416931078035
+      tf_beach_tileB_131: -3777055857264885117
+      tf_beach_tileB_137: -8962442081287639898
+      tf_beach_tileB_4: 53849052855025126
+      tf_beach_tileB_84: 6284787347567384867
+      tf_beach_tileB_105: 5105389075728384637
+      tf_beach_tileB_192: 1320581081537810683
+      tf_beach_tileB_180: 5440977620319470557
+      tf_beach_tileB_168: -3361390693118573070
+      tf_beach_tileB_165: 2215580485234454216
+      tf_beach_tileB_101: 6838564986801858020
+      tf_beach_tileB_151: -5917636860586250013
+      tf_beach_tileB_98: -6233775216987091831
+      tf_beach_tileB_190: -2678207993387182927
+      tf_beach_tileB_154: 4812348784173290708
+      tf_beach_tileB_99: 648096008824190820
+      tf_beach_tileB_104: 3018319013832608617
+      tf_beach_tileB_150: 5436443915376977088
+      tf_beach_tileB_176: 5873688736795519423
+      tf_beach_tileB_111: -3872850480604826713
+      tf_beach_tileB_17: 4489209654657496435
+      tf_beach_tileB_114: 7137499496781632696
+      tf_beach_tileB_148: 7460750067777340613
+      tf_beach_tileB_47: 6095170849493893668
+      tf_beach_tileB_33: -5635323126865728505
+      tf_beach_tileB_110: -6859622107447303991
+      tf_beach_tileB_178: -6800573450075966508
+      tf_beach_tileB_188: -5298468609568932274
+      tf_beach_tileB_36: -3082133812775158612
+      tf_beach_tileB_181: 8946052569200910443
+      tf_beach_tileB_22: 3149742286485520045
+      tf_beach_tileB_15: -7571649666398650692
+      tf_beach_tileB_153: 63026238867050072
+      tf_beach_tileB_167: -2914689310510763584
+      tf_beach_tileB_164: -6346840508488285609
+      tf_beach_tileB_31: 4808374710076434615
+      tf_beach_tileB_132: -5594060811274995838
+      tf_beach_tileB_134: -7509152843656375865
+      tf_beach_tileB_163: 3927658376698860204
+      tf_beach_tileB_18: -169754833637230368
+      tf_beach_tileB_3: -4495836471923406302
+      tf_beach_tileB_48: -4223571374496449800
+      tf_beach_tileB_166: -210190692596588798
+      tf_beach_tileB_10: -83471075835705978
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

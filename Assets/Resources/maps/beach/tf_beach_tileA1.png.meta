@@ -599,6 +599,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -607,9 +609,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -630,9 +632,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -4716,6 +4721,199 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tf_beach_tileA1_180: 5566920798367862597
+      tf_beach_tileA1_123: 9210797617975303194
+      tf_beach_tileA1_42: 6681728349559562003
+      tf_beach_tileA1_15: 4416353036162012354
+      tf_beach_tileA1_110: 5751949035922250545
+      tf_beach_tileA1_86: -4781743657476992557
+      tf_beach_tileA1_166: 7505091811696013404
+      tf_beach_tileA1_5: -6150538392921203318
+      tf_beach_tileA1_95: -2845641459188760731
+      tf_beach_tileA1_54: -3906906553635730892
+      tf_beach_tileA1_93: 5466012163340634898
+      tf_beach_tileA1_17: 3406785162855428952
+      tf_beach_tileA1_163: 609959616362336145
+      tf_beach_tileA1_136: -5831908569707244664
+      tf_beach_tileA1_172: 5686343377773624059
+      tf_beach_tileA1_63: 3312368740204988057
+      tf_beach_tileA1_133: -45442899368154345
+      tf_beach_tileA1_187: -3562971199246542401
+      tf_beach_tileA1_92: -8076488953510089619
+      tf_beach_tileA1_1: 886766518572842770
+      tf_beach_tileA1_56: 4042925022356151793
+      tf_beach_tileA1_2: -5907456265681072069
+      tf_beach_tileA1_6: 776331475916867972
+      tf_beach_tileA1_61: -3388169911625384438
+      tf_beach_tileA1_146: 8837295499969611102
+      tf_beach_tileA1_152: -290972939564714888
+      tf_beach_tileA1_33: -7942427353385572288
+      tf_beach_tileA1_74: -1610161067051951197
+      tf_beach_tileA1_65: -1233433700208103565
+      tf_beach_tileA1_107: -2114597628914124314
+      tf_beach_tileA1_27: 238519754224444082
+      tf_beach_tileA1_70: -4505551505000816928
+      tf_beach_tileA1_87: -3619179167063124276
+      tf_beach_tileA1_82: -4280248332291369870
+      tf_beach_tileA1_45: 7285015472523592817
+      tf_beach_tileA1_37: -2599392989243508544
+      tf_beach_tileA1_179: -159651541741827183
+      tf_beach_tileA1_31: -3783121231386230106
+      tf_beach_tileA1_175: 5697337834766686868
+      tf_beach_tileA1_57: -1481183936674491422
+      tf_beach_tileA1_81: 381571684816307490
+      tf_beach_tileA1_126: 3632344971309966891
+      tf_beach_tileA1_85: -3032090011329114027
+      tf_beach_tileA1_97: -4641249973942286890
+      tf_beach_tileA1_116: 1201695015164635539
+      tf_beach_tileA1_170: -1412748763783210297
+      tf_beach_tileA1_99: 6730408337087133881
+      tf_beach_tileA1_104: 4002478192122647983
+      tf_beach_tileA1_148: -7631133830355987361
+      tf_beach_tileA1_83: 1850159484178085786
+      tf_beach_tileA1_189: -6847260001807380133
+      tf_beach_tileA1_121: -3242738749221630293
+      tf_beach_tileA1_111: -4321682109000669026
+      tf_beach_tileA1_80: -3475282417806698844
+      tf_beach_tileA1_161: 5299468985833141301
+      tf_beach_tileA1_96: 3941851956583724214
+      tf_beach_tileA1_43: -3409615191300123371
+      tf_beach_tileA1_132: -8498310908710994222
+      tf_beach_tileA1_35: 7510583687475169876
+      tf_beach_tileA1_79: 6927139435065487293
+      tf_beach_tileA1_69: 3635431982973553302
+      tf_beach_tileA1_130: -9054013021164102882
+      tf_beach_tileA1_66: 6694871544906475572
+      tf_beach_tileA1_53: -5377146822284401102
+      tf_beach_tileA1_8: 6189716100223552248
+      tf_beach_tileA1_41: -1772840907744936460
+      tf_beach_tileA1_108: 5449753919889975471
+      tf_beach_tileA1_40: 3615965060966436042
+      tf_beach_tileA1_52: -9033810537755151511
+      tf_beach_tileA1_149: -3600926931787594858
+      tf_beach_tileA1_150: 6900593011786090537
+      tf_beach_tileA1_58: 5687798038967107173
+      tf_beach_tileA1_155: 7254625948162574651
+      tf_beach_tileA1_186: -14457832432186450
+      tf_beach_tileA1_120: 7689433523808117317
+      tf_beach_tileA1_105: -1775739985194811784
+      tf_beach_tileA1_103: 4969341170334432612
+      tf_beach_tileA1_18: 6164152876234001437
+      tf_beach_tileA1_100: -4894305140994796765
+      tf_beach_tileA1_137: 6342912832325368855
+      tf_beach_tileA1_135: 1392601026170056883
+      tf_beach_tileA1_102: 5409315167931839506
+      tf_beach_tileA1_151: -1481496401263486894
+      tf_beach_tileA1_84: -3302056260177683054
+      tf_beach_tileA1_141: 3070624602863409400
+      tf_beach_tileA1_115: -8338540939489081804
+      tf_beach_tileA1_38: 9159850633040568128
+      tf_beach_tileA1_46: 524063400828242735
+      tf_beach_tileA1_7: 3485620369137992739
+      tf_beach_tileA1_75: 2292622712755163566
+      tf_beach_tileA1_153: -8229146896576089032
+      tf_beach_tileA1_32: -4734505505320593578
+      tf_beach_tileA1_71: -4424936906658489556
+      tf_beach_tileA1_62: -3222017990677469628
+      tf_beach_tileA1_34: 1294325227005483497
+      tf_beach_tileA1_49: -1440229190216274143
+      tf_beach_tileA1_143: -5400305873150739456
+      tf_beach_tileA1_169: 2601145010431095144
+      tf_beach_tileA1_174: -1896655104147009237
+      tf_beach_tileA1_98: -4063927869247706696
+      tf_beach_tileA1_9: -824768684402122992
+      tf_beach_tileA1_30: -3114629254544558446
+      tf_beach_tileA1_68: 943132780812055189
+      tf_beach_tileA1_160: 2692009152288441605
+      tf_beach_tileA1_142: 5152367632663886985
+      tf_beach_tileA1_173: 5415822299893985747
+      tf_beach_tileA1_129: 1912323497507820563
+      tf_beach_tileA1_117: -3050543106243472531
+      tf_beach_tileA1_140: 5488462708061014073
+      tf_beach_tileA1_190: -1136551452248216240
+      tf_beach_tileA1_109: 6632263145207389322
+      tf_beach_tileA1_12: -4659647452926371848
+      tf_beach_tileA1_78: -3573584387303263388
+      tf_beach_tileA1_23: -1154806347199243380
+      tf_beach_tileA1_91: 4483707845634364468
+      tf_beach_tileA1_159: -1733590915140439756
+      tf_beach_tileA1_29: -6582903046027689402
+      tf_beach_tileA1_164: -5673597377969872339
+      tf_beach_tileA1_183: -2648369521772888668
+      tf_beach_tileA1_76: 3759286540323145350
+      tf_beach_tileA1_145: -7669631377906498731
+      tf_beach_tileA1_10: -7413184775121424845
+      tf_beach_tileA1_185: -6646495224543683866
+      tf_beach_tileA1_48: -6090913362995879896
+      tf_beach_tileA1_72: 1347154419971263465
+      tf_beach_tileA1_55: -2139445420287290703
+      tf_beach_tileA1_144: 4195038343792783883
+      tf_beach_tileA1_44: -4439160748336985701
+      tf_beach_tileA1_60: 1084688615664013904
+      tf_beach_tileA1_128: -8426419247931795468
+      tf_beach_tileA1_127: -4464514327928216864
+      tf_beach_tileA1_101: -8408191216358367965
+      tf_beach_tileA1_125: 8316755692656639294
+      tf_beach_tileA1_11: 4510253373234209641
+      tf_beach_tileA1_25: 7385358834669461116
+      tf_beach_tileA1_28: -1804731750854765804
+      tf_beach_tileA1_67: -9042467536814795771
+      tf_beach_tileA1_3: 3066814302257133690
+      tf_beach_tileA1_22: -5562178679432094373
+      tf_beach_tileA1_167: 2661801963946257277
+      tf_beach_tileA1_138: 785696972342296984
+      tf_beach_tileA1_16: -3480149678570522672
+      tf_beach_tileA1_89: -3372837193400042548
+      tf_beach_tileA1_124: -2980651846005161013
+      tf_beach_tileA1_113: 4587853241424240774
+      tf_beach_tileA1_14: 8852160063268200984
+      tf_beach_tileA1_19: 6498823607130924791
+      tf_beach_tileA1_39: -4675680591936496912
+      tf_beach_tileA1_162: -1421009155767045424
+      tf_beach_tileA1_177: 4017056700277886696
+      tf_beach_tileA1_88: 1991288356248291741
+      tf_beach_tileA1_0: -4210775368222265205
+      tf_beach_tileA1_184: 5146989028365946208
+      tf_beach_tileA1_64: 5349783231355227287
+      tf_beach_tileA1_21: 720305993376899720
+      tf_beach_tileA1_90: -6818392041002968661
+      tf_beach_tileA1_118: -3920362818722802329
+      tf_beach_tileA1_20: -1277239802520166187
+      tf_beach_tileA1_94: -1159111830521180757
+      tf_beach_tileA1_181: 8797001357915212039
+      tf_beach_tileA1_114: 2221299473705504511
+      tf_beach_tileA1_178: 5354440776023354795
+      tf_beach_tileA1_191: -4000950631630991923
+      tf_beach_tileA1_24: 2684384071885902103
+      tf_beach_tileA1_36: -4093009157677812156
+      tf_beach_tileA1_47: 2986257237054930772
+      tf_beach_tileA1_168: -1703220930610866736
+      tf_beach_tileA1_59: -7265057190815249489
+      tf_beach_tileA1_182: -3548963046480544694
+      tf_beach_tileA1_154: -2808727389084326594
+      tf_beach_tileA1_157: 7634933564678651458
+      tf_beach_tileA1_147: -1460227360443572627
+      tf_beach_tileA1_51: 8776802986634350409
+      tf_beach_tileA1_134: 4809386974455802027
+      tf_beach_tileA1_139: -6755631643737766264
+      tf_beach_tileA1_176: -7283812261965596074
+      tf_beach_tileA1_188: 4720379565678180810
+      tf_beach_tileA1_26: -6223195183156233178
+      tf_beach_tileA1_50: 8483271173996982976
+      tf_beach_tileA1_158: -370956933257869088
+      tf_beach_tileA1_13: 1600809342519624553
+      tf_beach_tileA1_106: -1829807977561462819
+      tf_beach_tileA1_171: 4544377733869639829
+      tf_beach_tileA1_119: 3569132335012147863
+      tf_beach_tileA1_73: -4648311911193558437
+      tf_beach_tileA1_165: -6603727790658224819
+      tf_beach_tileA1_4: -4637467808254803354
+      tf_beach_tileA1_122: -5417871473812259772
+      tf_beach_tileA1_156: 2981871898099417250
+      tf_beach_tileA1_112: 765810935003152860
+      tf_beach_tileA1_77: 3251213579938894104
+      tf_beach_tileA1_131: -4024325075949114786
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
